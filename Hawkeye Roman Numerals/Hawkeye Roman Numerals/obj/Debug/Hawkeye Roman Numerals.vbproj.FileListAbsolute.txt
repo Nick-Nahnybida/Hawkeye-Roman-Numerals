@@ -1,0 +1,10 @@
+C:\Users\nn137422\Documents\Visual Basic\Hawkeye Roman Numerals\Hawkeye Roman Numerals\bin\Debug\Hawkeye Roman Numerals.exe.config
+C:\Users\nn137422\Documents\Visual Basic\Hawkeye Roman Numerals\Hawkeye Roman Numerals\bin\Debug\Hawkeye Roman Numerals.exe
+C:\Users\nn137422\Documents\Visual Basic\Hawkeye Roman Numerals\Hawkeye Roman Numerals\bin\Debug\Hawkeye Roman Numerals.pdb
+C:\Users\nn137422\Documents\Visual Basic\Hawkeye Roman Numerals\Hawkeye Roman Numerals\bin\Debug\Hawkeye Roman Numerals.xml
+C:\Users\nn137422\Documents\Visual Basic\Hawkeye Roman Numerals\Hawkeye Roman Numerals\obj\Debug\Hawkeye_Roman_Numerals.Form1.resources
+C:\Users\nn137422\Documents\Visual Basic\Hawkeye Roman Numerals\Hawkeye Roman Numerals\obj\Debug\Hawkeye_Roman_Numerals.Resources.resources
+C:\Users\nn137422\Documents\Visual Basic\Hawkeye Roman Numerals\Hawkeye Roman Numerals\obj\Debug\Hawkeye Roman Numerals.vbproj.GenerateResource.Cache
+C:\Users\nn137422\Documents\Visual Basic\Hawkeye Roman Numerals\Hawkeye Roman Numerals\obj\Debug\Hawkeye Roman Numerals.exe
+C:\Users\nn137422\Documents\Visual Basic\Hawkeye Roman Numerals\Hawkeye Roman Numerals\obj\Debug\Hawkeye Roman Numerals.xml
+C:\Users\nn137422\Documents\Visual Basic\Hawkeye Roman Numerals\Hawkeye Roman Numerals\obj\Debug\Hawkeye Roman Numerals.pdb
